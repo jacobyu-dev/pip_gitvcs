@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='test_pkg',
+    name='test-pkg',
     version='0.0.1',
     description='jk pip install test',
     url='',

@@ -1,2 +1,2 @@
 def print_jkinfo(msg):
-    print("{msg}'s test print")
+    print(f"{msg}'s test print")
