@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='test-pkg',
+    name='test_jk',
     version='0.0.2',
     description='jk pip install test',
     url='https://github.com/jacobyu-dev/pip_gitvcs.git',
