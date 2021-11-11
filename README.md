@@ -1,5 +1,6 @@
 # pip_gitvcs
-This is a python package for testing package releasing
+This is a python package for testing package releasing.
+
 It print string with input paramter.
 
 ## Installation
