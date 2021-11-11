@@ -10,3 +10,5 @@ It print string with input paramter.
 > from test_pkg import print_jkinfo
 > print_jkinfo('jk')
 
+>> jk's test print
+
